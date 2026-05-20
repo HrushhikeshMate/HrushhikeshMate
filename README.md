@@ -6,8 +6,6 @@
 <!-- Typing animation — no API key needed, hosted on GitHub -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=550&lines=MSc+Data+Analytics+%7C+Dublin+Business+School;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Building+end-to-end+analytics+projects;Open+to+entry-level+Data+Analyst+roles+%F0%9F%87%AE%F0%9F%87%AA)](https://git.io/typing-svg)
 
-<!-- Profile views — use CAUTIOUSLY, looks fine if subtle -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=4FC3F7&style=flat-square&label=Profile+Views)
 
 </div>
 
