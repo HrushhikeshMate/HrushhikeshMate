@@ -63,7 +63,7 @@ My projects span **Python**, **PostgreSQL**, **Power BI**, and **Scikit-learn**,
 |---|---|---|
 | 🗃️ [MySQL for Data Analytics](https://github.com/HrushhikeshMate/ALL-CERTIFICATES/blob/main/1.%20HRUSHIKESH%20NITIN%20MATE%20-%20MySQL%20for%20Data%20Analytics%20Certificate.png) | [Analyst Builder](https://www.analystbuilder.com) | Jul 2025 |
 | 📊 [Tableau for Data Visualization](https://github.com/HrushhikeshMate/ALL-CERTIFICATES/blob/main/2.%20HRUSHIKESH%20NITIN%20MATE%20-%20Tableau%20for%20Data%20Visualization%20Certificate.png) | [Analyst Builder] | Aug 2025 |
-| 📗 [Excel for Data Analytics]([YOUR_CORRECT_EXCEL_LINK](https://github.com/HrushhikeshMate/ALL-CERTIFICATES/blob/main/3.%20HRUSHIKESH%20NITIN%20MATE%20-%20Excel%20for%20Data%20Analytics%20Certificate.png)) | [Analyst Builder] | Jan 2026 |
+| 📗 [Excel for Data Analytics](https://github.com/HrushhikeshMate/ALL-CERTIFICATES/blob/main/3.%20HRUSHIKESH%20NITIN%20MATE%20-%20Excel%20for%20Data%20Analytics%20Certificate.png) | [Analyst Builder] | Jan 2026 |
 
 ---
 
