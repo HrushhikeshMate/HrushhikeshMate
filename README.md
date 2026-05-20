@@ -58,6 +58,19 @@ My projects span **Python**, **PostgreSQL**, **Power BI**, and **Scikit-learn**,
 
 ---
 
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| 🗃️ [MySQL for Data Analytics](https://github.com/HrushhikeshMate/ALL-CERTIFICATES/blob/main/HRUSHIKESH%20NITIN%20MATE%20-%20MySQL%20for%20Data%20Analytics%20Certificate.png) | [Analyst Builder](https://www.analystbuilder.com) | Jul 2025 |
+| 📊 [Tableau for Data Visualization](https://github.com/HrushhikeshMate/ALL-CERTIFICATES/blob/main/HRUSHIKESH%20NITIN%20MATE%20-%20Tableau%20for%20Data%20Visualization%20Certificate.png) | [Analyst Builder] | Aug 2025 |
+| 📗 [Excel for Data Analytics](YOUR_CORRECT_EXCEL_LINK) | [Analyst Builder] | Jan 2026 |
+
+---
+
+---
+
 ## 📂 Featured Projects
 
 ### 📊 [Superstore Sales Analytics — Power BI + PostgreSQL](https://github.com/HrushhikeshMate/Superstore-End-to-End-Data-Analytics-Project)
